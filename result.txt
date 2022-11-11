@@ -1,0 +1,250 @@
+{"Index": "1", "Title": "肖申克的救赎", "Author": "导演: 弗兰克·德拉邦特 Frank Darabont&nbsp;&nbsp;&nbsp;主演: 蒂姆·罗宾斯 Tim Robbins /...", "Time": "1994", "Country": "美国", "Type": "犯罪 剧情"}
+{"Index": "2", "Title": "霸王别姬", "Author": "导演: 陈凯歌 Kaige Chen&nbsp;&nbsp;&nbsp;主演: 张国荣 Leslie Cheung / 张丰毅 Fengyi Zha...", "Time": "1993", "Country": "中国大陆 中国香港", "Type": "剧情 爱情 同性"}
+{"Index": "3", "Title": "阿甘正传", "Author": "导演: 罗伯特·泽米吉斯 Robert Zemeckis&nbsp;&nbsp;&nbsp;主演: 汤姆·汉克斯 Tom Hanks / ...", "Time": "1994", "Country": "美国", "Type": "剧情 爱情"}
+{"Index": "4", "Title": "泰坦尼克号", "Author": "导演: 詹姆斯·卡梅隆 James Cameron&nbsp;&nbsp;&nbsp;主演: 莱昂纳多·迪卡普里奥 Leonardo...", "Time": "1997", "Country": "美国 墨西哥 澳大利亚 加拿大", "Type": "剧情 爱情 灾难"}
+{"Index": "5", "Title": "这个杀手不太冷", "Author": "导演: 吕克·贝松 Luc Besson&nbsp;&nbsp;&nbsp;主演: 让·雷诺 Jean Reno / 娜塔莉·波特曼 ...", "Time": "1994", "Country": "法国 美国", "Type": "剧情 动作 犯罪"}
+{"Index": "6", "Title": "美丽人生", "Author": "导演: 罗伯托·贝尼尼 Roberto Benigni&nbsp;&nbsp;&nbsp;主演: 罗伯托·贝尼尼 Roberto Beni...", "Time": "1997", "Country": "意大利", "Type": "剧情 喜剧 爱情 战争"}
+{"Index": "7", "Title": "千与千寻", "Author": "导演: 宫崎骏 Hayao Miyazaki&nbsp;&nbsp;&nbsp;主演: 柊瑠美 Rumi Hîragi / 入野自由 Miy...", "Time": "2001", "Country": "日本", "Type": "剧情 动画 奇幻"}
+{"Index": "8", "Title": "辛德勒的名单", "Author": "导演: 史蒂文·斯皮尔伯格 Steven Spielberg&nbsp;&nbsp;&nbsp;主演: 连姆·尼森 Liam Neeson...", "Time": "1993", "Country": "美国", "Type": "剧情 历史 战争"}
+{"Index": "9", "Title": "盗梦空间", "Author": "导演: 克里斯托弗·诺兰 Christopher Nolan&nbsp;&nbsp;&nbsp;主演: 莱昂纳多·迪卡普里奥 Le...", "Time": "2010", "Country": "美国 英国", "Type": "剧情 科幻 悬疑 冒险"}
+{"Index": "10", "Title": "星际穿越", "Author": "导演: 克里斯托弗·诺兰 Christopher Nolan&nbsp;&nbsp;&nbsp;主演: 马修·麦康纳 Matthew Mc...", "Time": "2014", "Country": "美国 英国 加拿大", "Type": "剧情 科幻 冒险"}
+{"Index": "11", "Title": "忠犬八公的故事", "Author": "导演: 莱塞·霍尔斯道姆 Lasse Hallström&nbsp;&nbsp;&nbsp;主演: 理查·基尔 Richard Ger...", "Time": "2009", "Country": "美国 英国", "Type": "剧情"}
+{"Index": "12", "Title": "楚门的世界", "Author": "导演: 彼得·威尔 Peter Weir&nbsp;&nbsp;&nbsp;主演: 金·凯瑞 Jim Carrey / 劳拉·琳妮 Lau...", "Time": "1998", "Country": "美国", "Type": "剧情 科幻"}
+{"Index": "13", "Title": "海上钢琴师", "Author": "导演: 朱塞佩·托纳多雷 Giuseppe Tornatore&nbsp;&nbsp;&nbsp;主演: 蒂姆·罗斯 Tim Roth / ...", "Time": "1998", "Country": "意大利", "Type": "剧情 音乐"}
+{"Index": "14", "Title": "三傻大闹宝莱坞", "Author": "导演: 拉库马·希拉尼 Rajkumar Hirani&nbsp;&nbsp;&nbsp;主演: 阿米尔·汗 Aamir Khan / 卡...", "Time": "2009", "Country": "印度", "Type": "剧情 喜剧 爱情 歌舞"}
+{"Index": "15", "Title": "机器人总动员", "Author": "导演: 安德鲁·斯坦顿 Andrew Stanton&nbsp;&nbsp;&nbsp;主演: 本·贝尔特 Ben Burtt / 艾丽...", "Time": "2008", "Country": "美国", "Type": "科幻 动画 冒险"}
+{"Index": "16", "Title": "放牛班的春天", "Author": "导演: 克里斯托夫·巴拉蒂 Christophe Barratier&nbsp;&nbsp;&nbsp;主演: 让-巴蒂斯特·莫尼...", "Time": "2004", "Country": "法国 瑞士 德国", "Type": "剧情 喜剧 音乐"}
+{"Index": "17", "Title": "无间道", "Author": "导演: 刘伟强 / 麦兆辉&nbsp;&nbsp;&nbsp;主演: 刘德华 / 梁朝伟 / 黄秋生", "Time": "2002", "Country": "中国香港", "Type": "剧情 犯罪 惊悚"}
+{"Index": "18", "Title": "疯狂动物城", "Author": "导演: 拜伦·霍华德 Byron Howard / 瑞奇·摩尔 Rich Moore&nbsp;&nbsp;&nbsp;主演: 金妮弗·...", "Time": "2016", "Country": "美国", "Type": "喜剧 动画 冒险"}
+{"Index": "19", "Title": "大话西游之大圣娶亲", "Author": "导演: 刘镇伟 Jeffrey Lau&nbsp;&nbsp;&nbsp;主演: 周星驰 Stephen Chow / 吴孟达 Man Tat Ng...", "Time": "1995", "Country": "中国香港 中国大陆", "Type": "喜剧 爱情 奇幻 古装"}
+{"Index": "20", "Title": "控方证人", "Author": "导演: 比利·怀尔德 Billy Wilder&nbsp;&nbsp;&nbsp;主演: 泰隆·鲍华 Tyrone Power / 玛琳·...", "Time": "1957", "Country": "美国", "Type": "剧情 犯罪 悬疑"}
+{"Index": "21", "Title": "熔炉", "Author": "导演: 黄东赫 Dong-hyuk Hwang&nbsp;&nbsp;&nbsp;主演: 孔侑 Yoo Gong / 郑有美 Yu-mi Jung /...", "Time": "2011", "Country": "韩国", "Type": "剧情"}
+{"Index": "22", "Title": "教父", "Author": "导演: 弗朗西斯·福特·科波拉 Francis Ford Coppola&nbsp;&nbsp;&nbsp;主演: 马龙·白兰度 M...", "Time": "1972", "Country": "美国", "Type": "剧情 犯罪"}
+{"Index": "23", "Title": "当幸福来敲门", "Author": "导演: 加布里尔·穆奇诺 Gabriele Muccino&nbsp;&nbsp;&nbsp;主演: 威尔·史密斯 Will Smith ...", "Time": "2006", "Country": "美国", "Type": "剧情 传记 家庭"}
+{"Index": "24", "Title": "触不可及", "Author": "导演: 奥利维·那卡什 Olivier Nakache / 艾力克·托兰达 Eric Toledano&nbsp;&nbsp;&nbsp;主...", "Time": "2011", "Country": "法国", "Type": "剧情 喜剧"}
+{"Index": "25", "Title": "怦然心动", "Author": "导演: 罗伯·莱纳 Rob Reiner&nbsp;&nbsp;&nbsp;主演: 玛德琳·卡罗尔 Madeline Carroll / 卡...", "Time": "2010", "Country": "美国", "Type": "剧情 喜剧 爱情"}
+{"Index": "26", "Title": "龙猫", "Author": "导演: 宫崎骏 Hayao Miyazaki&nbsp;&nbsp;&nbsp;主演: 日高法子 Noriko Hidaka / 坂本千夏 Ch...", "Time": "1988", "Country": "日本", "Type": "动画 奇幻 冒险"}
+{"Index": "27", "Title": "末代皇帝", "Author": "导演: 贝纳尔多·贝托鲁奇 Bernardo Bertolucci&nbsp;&nbsp;&nbsp;主演: 尊龙 John Lone / 陈...", "Time": "1987", "Country": "英国 意大利 中国大陆 法国", "Type": "剧情 传记 历史"}
+{"Index": "28", "Title": "寻梦环游记", "Author": "导演: 李·昂克里奇 Lee Unkrich / 阿德里安·莫利纳 Adrian Molina&nbsp;&nbsp;&nbsp;主演: ...", "Time": "2017", "Country": "美国", "Type": "喜剧 动画 奇幻 音乐"}
+{"Index": "29", "Title": "蝙蝠侠：黑暗骑士", "Author": "导演: 克里斯托弗·诺兰 Christopher Nolan&nbsp;&nbsp;&nbsp;主演: 克里斯蒂安·贝尔 Christ...", "Time": "2008", "Country": "美国 英国", "Type": "剧情 动作 科幻 犯罪 惊悚"}
+{"Index": "30", "Title": "活着", "Author": "导演: 张艺谋 Yimou Zhang&nbsp;&nbsp;&nbsp;主演: 葛优 You Ge / 巩俐 Li Gong / 姜武 Wu Jiang", "Time": "1994", "Country": "中国大陆 中国香港", "Type": "剧情 历史 家庭"}
+{"Index": "31", "Title": "哈利·波特与魔法石", "Author": "导演: Chris Columbus&nbsp;&nbsp;&nbsp;主演: Daniel Radcliffe / Emma Watson / Rupert Grint", "Time": "2001", "Country": "美国 英国", "Type": "奇幻 冒险"}
+{"Index": "32", "Title": "指环王3：王者无敌", "Author": "导演: 彼得·杰克逊 Peter Jackson&nbsp;&nbsp;&nbsp;主演: 伊利亚·伍德 Elijah Wood / 西恩...", "Time": "2003", "Country": "美国 新西兰", "Type": "剧情 动作 奇幻 冒险"}
+{"Index": "33", "Title": "乱世佳人", "Author": "导演: 维克多·弗莱明 Victor Fleming / 乔治·库克 George Cukor&nbsp;&nbsp;&nbsp;主演: 费...", "Time": "1939", "Country": "美国", "Type": "剧情 历史 爱情 战争"}
+{"Index": "34", "Title": "素媛", "Author": "导演: 李濬益 Jun-ik Lee&nbsp;&nbsp;&nbsp;主演: 薛景求 Kyung-gu Sol / 严志媛 Ji-won Uhm ...", "Time": "2013", "Country": "韩国", "Type": "剧情"}
+{"Index": "35", "Title": "飞屋环游记", "Author": "导演: 彼特·道格特 Pete Docter / 鲍勃·彼德森 Bob Peterson&nbsp;&nbsp;&nbsp;主演: 爱德...", "Time": "2009", "Country": "美国", "Type": "剧情 喜剧 动画 冒险"}
+{"Index": "36", "Title": "我不是药神", "Author": "导演: 文牧野 Muye Wen&nbsp;&nbsp;&nbsp;主演: 徐峥 Zheng Xu / 王传君 Chuanjun Wang / 周...", "Time": "2018", "Country": "中国大陆", "Type": "剧情 喜剧"}
+{"Index": "37", "Title": "摔跤吧！爸爸", "Author": "导演: 涅提·蒂瓦里 Nitesh Tiwari&nbsp;&nbsp;&nbsp;主演: 阿米尔·汗 Aamir Khan / 法缇玛...", "Time": "2016", "Country": "印度", "Type": "剧情 传记 运动 家庭"}
+{"Index": "38", "Title": "何以为家", "Author": "导演: 娜丁·拉巴基 Nadine Labaki&nbsp;&nbsp;&nbsp;主演: 扎因·拉费阿 Zain al-Rafeea / ...", "Time": "2018", "Country": "黎巴嫩 美国 法国 塞浦路斯 卡塔尔 英国", "Type": "剧情"}
+{"Index": "39", "Title": "十二怒汉", "Author": "导演: Sidney Lumet&nbsp;&nbsp;&nbsp;主演: 亨利·方达 Henry Fonda / 马丁·鲍尔萨姆 Marti...", "Time": "1957", "Country": "美国", "Type": "剧情"}
+{"Index": "40", "Title": "哈尔的移动城堡", "Author": "导演: 宫崎骏 Hayao Miyazaki&nbsp;&nbsp;&nbsp;主演: 倍赏千惠子 Chieko Baishô / 木村拓...", "Time": "2004", "Country": "日本", "Type": "动画 奇幻 冒险"}
+{"Index": "41", "Title": "鬼子来了", "Author": "导演: 姜文 Wen Jiang&nbsp;&nbsp;&nbsp;主演: 姜文 Wen Jiang / 香川照之 Teruyuki Kagawa /...", "Time": "2000", "Country": "中国大陆", "Type": "剧情 喜剧"}
+{"Index": "42", "Title": "少年派的奇幻漂流", "Author": "导演: 李安 Ang Lee&nbsp;&nbsp;&nbsp;主演: 苏拉·沙玛 Suraj Sharma / 伊尔凡·可汗 Irrfan...", "Time": "2012", "Country": "美国 中国台湾 英国 加拿大", "Type": "剧情 奇幻 冒险"}
+{"Index": "43", "Title": "猫鼠游戏", "Author": "导演: 史蒂文·斯皮尔伯格 Steven Spielberg&nbsp;&nbsp;&nbsp;主演: 莱昂纳多·迪卡普里奥 L...", "Time": "2002", "Country": "美国 加拿大", "Type": "传记 犯罪 剧情"}
+{"Index": "44", "Title": "让子弹飞", "Author": "导演: 姜文 Wen Jiang&nbsp;&nbsp;&nbsp;主演: 姜文 Wen Jiang / 葛优 You Ge / 周润发 Yun-F...", "Time": "2010", "Country": "中国大陆 中国香港", "Type": "剧情 喜剧 动作 西部"}
+{"Index": "45", "Title": "大话西游之月光宝盒", "Author": "导演: 刘镇伟 Jeffrey Lau&nbsp;&nbsp;&nbsp;主演: 周星驰 Stephen Chow / 吴孟达 Man Tat Ng...", "Time": "1995", "Country": "中国香港 中国大陆", "Type": "喜剧 爱情 奇幻 古装"}
+{"Index": "46", "Title": "钢琴家", "Author": "导演: 罗曼·波兰斯基 Roman Polanski&nbsp;&nbsp;&nbsp;主演: 艾德里安·布洛迪 Adrien Brod...", "Time": "2002", "Country": "英国 法国 波兰 德国", "Type": "剧情 传记 战争 音乐"}
+{"Index": "47", "Title": "天空之城", "Author": "导演: 宫崎骏 Hayao Miyazaki&nbsp;&nbsp;&nbsp;主演: 田中真弓 Mayumi Tanaka / 横泽启子 Ke...", "Time": "1986", "Country": "日本", "Type": "动画 奇幻 冒险"}
+{"Index": "48", "Title": "海蒂和爷爷", "Author": "导演: 阿兰·葛斯彭纳 Alain Gsponer&nbsp;&nbsp;&nbsp;主演: 阿努克·斯特芬 Anuk Steffen /...", "Time": "2015", "Country": "德国 瑞士", "Type": "剧情 冒险 家庭"}
+{"Index": "49", "Title": "指环王2：双塔奇兵", "Author": "导演: 彼得·杰克逊 Peter Jackson&nbsp;&nbsp;&nbsp;主演: 伊利亚·伍德 Elijah Wood / 西恩...", "Time": "2002", "Country": "美国 新西兰", "Type": "剧情 动作 奇幻 冒险"}
+{"Index": "50", "Title": "闻香识女人", "Author": "导演: 马丁·布莱斯 Martin Brest&nbsp;&nbsp;&nbsp;主演: 阿尔·帕西诺 Al Pacino / 克里斯...", "Time": "1992", "Country": "美国", "Type": "剧情"}
+{"Index": "51", "Title": "天堂电影院", "Author": "导演: 朱塞佩·托纳多雷 Giuseppe Tornatore&nbsp;&nbsp;&nbsp;主演: 菲利普·努瓦雷 Philipp...", "Time": "1988", "Country": "意大利 法国", "Type": "剧情 爱情"}
+{"Index": "52", "Title": "罗马假日", "Author": "导演: 威廉·惠勒 William Wyler&nbsp;&nbsp;&nbsp;主演: 奥黛丽·赫本 Audrey Hepburn / 格...", "Time": "1953", "Country": "美国", "Type": "喜剧 剧情 爱情"}
+{"Index": "53", "Title": "大闹天宫", "Author": "导演: 万籁鸣 Laiming Wan&nbsp;&nbsp;&nbsp;主演: 邱岳峰 Yuefeng Qiu / 富润生 Runsheng Fu...", "Time": "1961(中国大陆) / 1964(中国大陆) / 1978(中国大陆)", "Country": "中国大陆", "Type": "剧情 动画 奇幻 古装"}
+{"Index": "54", "Title": "指环王1：护戒使者", "Author": "导演: 彼得·杰克逊 Peter Jackson&nbsp;&nbsp;&nbsp;主演: 伊利亚·伍德 Elijah Wood / 西恩...", "Time": "2001", "Country": "新西兰 美国", "Type": "剧情 动作 奇幻 冒险"}
+{"Index": "55", "Title": "黑客帝国", "Author": "导演: 安迪·沃卓斯基 Andy Wachowski / 拉娜·沃卓斯基 Lana Wachowski&nbsp;&nbsp;&nbsp;主...", "Time": "1999", "Country": "美国", "Type": "动作 科幻"}
+{"Index": "56", "Title": "死亡诗社", "Author": "导演: 彼得·威尔 Peter Weir&nbsp;&nbsp;&nbsp;主演: 罗宾·威廉姆斯 Robin Williams / 罗伯...", "Time": "1989", "Country": "美国", "Type": "剧情"}
+{"Index": "57", "Title": "绿皮书", "Author": "导演: 彼得·法雷里 Peter Farrelly&nbsp;&nbsp;&nbsp;主演: 维果·莫腾森 Viggo Mortensen /...", "Time": "2018", "Country": "美国 中国大陆", "Type": "剧情 喜剧 传记 音乐"}
+{"Index": "58", "Title": "教父2", "Author": "导演: 弗朗西斯·福特·科波拉 Francis Ford Coppola&nbsp;&nbsp;&nbsp;主演: 阿尔·帕西诺 A...", "Time": "1974", "Country": "美国", "Type": "剧情 犯罪"}
+{"Index": "59", "Title": "狮子王", "Author": "导演: Roger Allers / 罗伯·明可夫 Rob Minkoff&nbsp;&nbsp;&nbsp;主演: 乔纳森·泰勒·托马...", "Time": "1994", "Country": "美国", "Type": "动画 冒险 歌舞"}
+{"Index": "60", "Title": "辩护人", "Author": "导演: 杨宇硕 Woo-seok Yang&nbsp;&nbsp;&nbsp;主演: 宋康昊 Kang-ho Song / 金英爱 Yeong-ae...", "Time": "2013", "Country": "韩国", "Type": "剧情"}
+{"Index": "61", "Title": "搏击俱乐部", "Author": "导演: 大卫·芬奇 David Fincher&nbsp;&nbsp;&nbsp;主演: 爱德华·诺顿 Edward Norton / 布拉...", "Time": "1999", "Country": "美国 德国 意大利", "Type": "剧情 动作 悬疑 惊悚"}
+{"Index": "62", "Title": "饮食男女", "Author": "导演: 李安 Ang Lee&nbsp;&nbsp;&nbsp;主演: 郎雄 Sihung Lung / 杨贵媚 Kuei-Mei Yang / 吴...", "Time": "1994", "Country": "中国台湾 美国", "Type": "剧情 家庭"}
+{"Index": "63", "Title": "美丽心灵", "Author": "导演: 朗·霍华德 Ron Howard&nbsp;&nbsp;&nbsp;主演: 罗素·克劳 Russell Crowe / 艾德·哈...", "Time": "2001", "Country": "美国", "Type": "传记 剧情"}
+{"Index": "64", "Title": "本杰明·巴顿奇事", "Author": "导演: 大卫·芬奇 David Fincher&nbsp;&nbsp;&nbsp;主演: 凯特·布兰切特 Cate Blanchett / ...", "Time": "2008", "Country": "美国", "Type": "剧情 爱情 奇幻"}
+{"Index": "65", "Title": "穿条纹睡衣的男孩", "Author": "导演: 马克·赫尔曼 Mark Herman&nbsp;&nbsp;&nbsp;主演: 阿萨·巴特菲尔德 Asa Butterfield ...", "Time": "2008", "Country": "英国 美国", "Type": "剧情 战争"}
+{"Index": "66", "Title": "窃听风暴", "Author": "导演: 弗洛里安·亨克尔·冯·多纳斯马尔克 Florian Henckel von Donnersmarck&nbsp;&nbsp;&n...", "Time": "2006", "Country": "德国", "Type": "剧情 悬疑"}
+{"Index": "67", "Title": "情书", "Author": "导演: 岩井俊二 Shunji Iwai&nbsp;&nbsp;&nbsp;主演: 中山美穗 Miho Nakayama / 丰川悦司 Ets...", "Time": "1995", "Country": "日本", "Type": "剧情 爱情"}
+{"Index": "68", "Title": "两杆大烟枪", "Author": "导演: Guy Ritchie&nbsp;&nbsp;&nbsp;主演: Jason Flemyng / Dexter Fletcher / Nick Moran", "Time": "1998", "Country": "英国", "Type": "剧情 喜剧 犯罪"}
+{"Index": "69", "Title": "西西里的美丽传说", "Author": "导演: 朱塞佩·托纳多雷 Giuseppe Tornatore&nbsp;&nbsp;&nbsp;主演: 莫妮卡·贝鲁奇 Monica ...", "Time": "2000", "Country": "意大利 美国", "Type": "剧情 战争 情色"}
+{"Index": "70", "Title": "音乐之声", "Author": "导演: 罗伯特·怀斯 Robert Wise&nbsp;&nbsp;&nbsp;主演: 朱莉·安德鲁斯 Julie Andrews / 克...", "Time": "1965", "Country": "美国", "Type": "剧情 传记 爱情 歌舞"}
+{"Index": "71", "Title": "看不见的客人", "Author": "导演: 奥里奥尔·保罗 Oriol Paulo&nbsp;&nbsp;&nbsp;主演: 马里奥·卡萨斯 Mario Casas / 阿...", "Time": "2016", "Country": "西班牙", "Type": "剧情 犯罪 悬疑 惊悚"}
+{"Index": "72", "Title": "拯救大兵瑞恩", "Author": "导演: 史蒂文·斯皮尔伯格 Steven Spielberg&nbsp;&nbsp;&nbsp;主演: 汤姆·汉克斯 Tom Hanks...", "Time": "1998", "Country": "美国", "Type": "剧情 战争"}
+{"Index": "73", "Title": "飞越疯人院", "Author": "导演: 米洛斯·福尔曼 Miloš Forman&nbsp;&nbsp;&nbsp;主演: 杰克·尼科尔森 Jack Nichols...", "Time": "1975", "Country": "美国", "Type": "剧情"}
+{"Index": "74", "Title": "小鞋子", "Author": "导演: 马基德·马基迪 Majid Majidi&nbsp;&nbsp;&nbsp;主演: 默罕默德·阿米尔·纳吉 Mohamma...", "Time": "1997", "Country": "伊朗", "Type": "剧情 儿童 家庭"}
+{"Index": "75", "Title": "阿凡达", "Author": "导演: 詹姆斯·卡梅隆 James Cameron&nbsp;&nbsp;&nbsp;主演: 萨姆·沃辛顿 Sam Worthington ...", "Time": "2009", "Country": "美国", "Type": "动作 科幻 冒险"}
+{"Index": "76", "Title": "哈利·波特与死亡圣器(下)", "Author": "导演: 大卫·叶茨 David Yates&nbsp;&nbsp;&nbsp;主演: 丹尼尔·雷德克里夫 Daniel Radcliffe...", "Time": "2011", "Country": "美国 英国", "Type": "奇幻 冒险"}
+{"Index": "77", "Title": "沉默的羔羊", "Author": "导演: 乔纳森·戴米 Jonathan Demme&nbsp;&nbsp;&nbsp;主演: 朱迪·福斯特 Jodie Foster / 安...", "Time": "1991", "Country": "美国", "Type": "剧情 犯罪 惊悚"}
+{"Index": "78", "Title": "致命魔术", "Author": "导演: 克里斯托弗·诺兰 Christopher Nolan&nbsp;&nbsp;&nbsp;主演: 休·杰克曼 Hugh Jackman...", "Time": "2006", "Country": "英国 美国", "Type": "剧情 悬疑 惊悚"}
+{"Index": "79", "Title": "禁闭岛", "Author": "导演: Martin Scorsese&nbsp;&nbsp;&nbsp;主演: 莱昂纳多·迪卡普里奥 Leonardo DiCaprio / ...", "Time": "2010", "Country": "美国", "Type": "剧情 悬疑 惊悚"}
+{"Index": "80", "Title": "布达佩斯大饭店", "Author": "导演: 韦斯·安德森 Wes Anderson&nbsp;&nbsp;&nbsp;主演: 拉尔夫·费因斯 Ralph Fiennes / ...", "Time": "2014", "Country": "美国 德国 英国", "Type": "剧情 喜剧 冒险"}
+{"Index": "81", "Title": "蝴蝶效应", "Author": "导演: 埃里克·布雷斯 Eric Bress / J·麦基·格鲁伯 J. Mackye Gruber&nbsp;&nbsp;&nbsp;主...", "Time": "2004", "Country": "美国 加拿大", "Type": "剧情 悬疑 科幻 惊悚"}
+{"Index": "82", "Title": "海豚湾", "Author": "导演: 路易·西霍尤斯 Louie Psihoyos&nbsp;&nbsp;&nbsp;主演: Richard O'Barry / 路易·西霍...", "Time": "2009", "Country": "美国", "Type": "纪录片"}
+{"Index": "83", "Title": "美国往事", "Author": "导演: 赛尔乔·莱翁内 Sergio Leone&nbsp;&nbsp;&nbsp;主演: 罗伯特·德尼罗 Robert De Niro ...", "Time": "1984", "Country": "美国 意大利", "Type": "犯罪 剧情"}
+{"Index": "84", "Title": "心灵捕手", "Author": "导演: 格斯·范·桑特 Gus Van Sant&nbsp;&nbsp;&nbsp;主演: 马特·达蒙 Matt Damon / 罗宾·...", "Time": "1997", "Country": "美国", "Type": "剧情"}
+{"Index": "85", "Title": "低俗小说", "Author": "导演: 昆汀·塔伦蒂诺 Quentin Tarantino&nbsp;&nbsp;&nbsp;主演: 约翰·特拉沃尔塔 John Tra...", "Time": "1994", "Country": "美国", "Type": "剧情 喜剧 犯罪"}
+{"Index": "86", "Title": "春光乍泄", "Author": "导演: 王家卫 Kar Wai Wong&nbsp;&nbsp;&nbsp;主演: 张国荣 Leslie Cheung / 梁朝伟 Tony Leu...", "Time": "1997", "Country": "中国香港 日本 韩国", "Type": "剧情 爱情 同性"}
+{"Index": "87", "Title": "摩登时代", "Author": "导演: 查理·卓别林 Charles Chaplin&nbsp;&nbsp;&nbsp;主演: 查理·卓别林 Charles Chaplin ...", "Time": "1936", "Country": "美国", "Type": "剧情 喜剧 爱情"}
+{"Index": "88", "Title": "功夫", "Author": "导演: 周星驰 Stephen Chow&nbsp;&nbsp;&nbsp;主演: 周星驰 Stephen Chow / 元秋 Qiu Yuen / ...", "Time": "2004", "Country": "中国大陆 中国香港", "Type": "动作 喜剧 犯罪 奇幻"}
+{"Index": "89", "Title": "喜剧之王", "Author": "导演: 周星驰 Stephen Chow / 李力持 Lik-Chi Lee&nbsp;&nbsp;&nbsp;主演: 周星驰 Stephen Ch...", "Time": "1999", "Country": "中国香港", "Type": "喜剧 剧情 爱情"}
+{"Index": "90", "Title": "哈利·波特与阿兹卡班的囚徒", "Author": "导演: Alfonso Cuarón&nbsp;&nbsp;&nbsp;主演: 丹尼尔·雷德克里夫 Daniel Radcliffe / Emma...", "Time": "2004", "Country": "英国 美国", "Type": "奇幻 冒险"}
+{"Index": "91", "Title": "七宗罪", "Author": "导演: 大卫·芬奇 David Fincher&nbsp;&nbsp;&nbsp;主演: 摩根·弗里曼 Morgan Freeman / 布...", "Time": "1995", "Country": "美国", "Type": "剧情 犯罪 悬疑 惊悚"}
+{"Index": "92", "Title": "超脱", "Author": "导演: 托尼·凯耶 Tony Kaye&nbsp;&nbsp;&nbsp;主演: 艾德里安·布洛迪 Adrien Brody / 马西...", "Time": "2011", "Country": "美国", "Type": "剧情"}
+{"Index": "93", "Title": "致命ID", "Author": "导演: 詹姆斯·曼高德 James Mangold&nbsp;&nbsp;&nbsp;主演: 约翰·库萨克 John Cusack / 雷...", "Time": "2003", "Country": "美国", "Type": "剧情 悬疑 惊悚"}
+{"Index": "94", "Title": "杀人回忆", "Author": "导演: 奉俊昊 Joon-ho Bong&nbsp;&nbsp;&nbsp;主演: 宋康昊 Kang-ho Song / 金相庆 Sang-kyun...", "Time": "2003", "Country": "韩国", "Type": "剧情 动作 犯罪 悬疑 惊悚"}
+{"Index": "95", "Title": "红辣椒", "Author": "导演: 今敏 Satoshi Kon&nbsp;&nbsp;&nbsp;主演: 林原惠美 Megumi Hayashibara / 江守彻 Toru...", "Time": "2006", "Country": "日本", "Type": "动画 悬疑 科幻 惊悚"}
+{"Index": "96", "Title": "加勒比海盗", "Author": "导演: 戈尔·维宾斯基 Gore Verbinski&nbsp;&nbsp;&nbsp;主演: 约翰尼·德普 Johnny Depp / ...", "Time": "2003", "Country": "美国", "Type": "动作 冒险 奇幻"}
+{"Index": "97", "Title": "狩猎", "Author": "导演: 托马斯·温特伯格 Thomas Vinterberg&nbsp;&nbsp;&nbsp;主演: 麦斯·米科尔森 Mads Mik...", "Time": "2012", "Country": "丹麦 瑞典", "Type": "剧情"}
+{"Index": "98", "Title": "被嫌弃的松子的一生", "Author": "导演: 中岛哲也 Tetsuya Nakashima&nbsp;&nbsp;&nbsp;主演: 中谷美纪 Miki Nakatani / 瑛太 E...", "Time": "2006", "Country": "日本", "Type": "剧情 歌舞"}
+{"Index": "99", "Title": "7号房的礼物", "Author": "导演: 李焕庆 Hwan-kyeong Lee&nbsp;&nbsp;&nbsp;主演: 柳承龙 Seung-yong Ryoo / 朴信惠 Shi...", "Time": "2013", "Country": "韩国", "Type": "剧情 喜剧 家庭"}
+{"Index": "100", "Title": "请以你的名字呼唤我", "Author": "导演: 卢卡·瓜达尼诺 Luca Guadagnino&nbsp;&nbsp;&nbsp;主演: 艾米·汉莫 Armie Hammer / ...", "Time": "2017", "Country": "意大利 法国 巴西 美国", "Type": "剧情 爱情 同性"}
+{"Index": "101", "Title": "哈利·波特与密室", "Author": "导演: Chris Columbus&nbsp;&nbsp;&nbsp;主演: 丹尼尔·雷德克里夫 Daniel Radcliffe / 艾玛...", "Time": "2002", "Country": "英国 美国", "Type": "奇幻 冒险"}
+{"Index": "102", "Title": "一一", "Author": "导演: 杨德昌 Edward Yang&nbsp;&nbsp;&nbsp;主演: 吴念真 / 李凯莉 Kelly Lee / 金燕玲 Elai...", "Time": "2000", "Country": "中国台湾 日本", "Type": "剧情 爱情 家庭"}
+{"Index": "103", "Title": "唐伯虎点秋香", "Author": "导演: 李力持 Lik-Chi Lee&nbsp;&nbsp;&nbsp;主演: 周星驰 Stephen Chow / 巩俐 Li Gong / 陈...", "Time": "1993", "Country": "中国香港", "Type": "喜剧 爱情 古装"}
+{"Index": "104", "Title": "剪刀手爱德华", "Author": "导演: 蒂姆·波顿 Tim Burton&nbsp;&nbsp;&nbsp;主演: 约翰尼·德普 Johnny Depp / 薇诺娜·...", "Time": "1990", "Country": "美国", "Type": "剧情 奇幻 爱情"}
+{"Index": "105", "Title": "断背山", "Author": "导演: 李安 Ang Lee&nbsp;&nbsp;&nbsp;主演: 希斯·莱杰 Heath Ledger / 杰克·吉伦哈尔 Jake...", "Time": "2005", "Country": "美国 加拿大", "Type": "剧情 爱情 同性 家庭"}
+{"Index": "106", "Title": "勇敢的心", "Author": "导演: 梅尔·吉布森 Mel Gibson&nbsp;&nbsp;&nbsp;主演: 梅尔·吉布森 Mel Gibson / 苏菲·玛...", "Time": "1995", "Country": "美国", "Type": "动作 传记 剧情 历史 战争"}
+{"Index": "107", "Title": "入殓师", "Author": "导演: 泷田洋二郎 Yôjirô Takita&nbsp;&nbsp;&nbsp;主演: 本木雅弘 Masahiro Motoki / ...", "Time": "2008", "Country": "日本", "Type": "剧情"}
+{"Index": "108", "Title": "第六感", "Author": "导演: M·奈特·沙马兰 M. Night Shyamalan&nbsp;&nbsp;&nbsp;主演: 布鲁斯·威利斯 Bruce Wi...", "Time": "1999", "Country": "美国", "Type": "剧情 悬疑 惊悚"}
+{"Index": "109", "Title": "爱在黎明破晓前", "Author": "导演: 理查德·林克莱特 Richard Linklater&nbsp;&nbsp;&nbsp;主演: 伊桑·霍克 Ethan Hawke ...", "Time": "1995", "Country": "美国 奥地利 瑞士", "Type": "剧情 爱情"}
+{"Index": "110", "Title": "重庆森林", "Author": "导演: 王家卫 Kar Wai Wong&nbsp;&nbsp;&nbsp;主演: 林青霞 Brigitte Lin / 金城武 Takeshi K...", "Time": "1994", "Country": "中国香港", "Type": "剧情 爱情"}
+{"Index": "111", "Title": "蝙蝠侠：黑暗骑士崛起", "Author": "导演: 克里斯托弗·诺兰 Christopher Nolan&nbsp;&nbsp;&nbsp;主演: 克里斯蒂安·贝尔 Christ...", "Time": "2012", "Country": "美国 英国", "Type": "剧情 动作 科幻 犯罪 惊悚"}
+{"Index": "112", "Title": "幽灵公主", "Author": "导演: 宫崎骏 Hayao Miyazaki&nbsp;&nbsp;&nbsp;主演: 松田洋治 Yôji Matsuda / 石田百合...", "Time": "1997", "Country": "日本", "Type": "动画 奇幻 冒险"}
+{"Index": "113", "Title": "天使爱美丽", "Author": "导演: 让-皮埃尔·热内 Jean-Pierre Jeunet&nbsp;&nbsp;&nbsp;主演: 奥黛丽·塔图 Audrey Tau...", "Time": "2001", "Country": "法国 德国", "Type": "剧情 喜剧 爱情"}
+{"Index": "114", "Title": "菊次郎的夏天", "Author": "导演: 北野武 Takeshi Kitano&nbsp;&nbsp;&nbsp;主演: 北野武 Takeshi Kitano / 关口雄介 Yus...", "Time": "1999", "Country": "日本", "Type": "剧情 喜剧"}
+{"Index": "115", "Title": "小森林 夏秋篇", "Author": "导演: 森淳一 Junichi Mori&nbsp;&nbsp;&nbsp;主演: 桥本爱 Ai Hashimoto / 三浦贵大 Takahir...", "Time": "2014", "Country": "日本", "Type": "剧情"}
+{"Index": "116", "Title": "超能陆战队", "Author": "导演: 唐·霍尔 Don Hall / 克里斯·威廉姆斯 Chris Williams&nbsp;&nbsp;&nbsp;主演: 斯科特...", "Time": "2014", "Country": "美国", "Type": "喜剧 动作 科幻 动画 冒险"}
+{"Index": "117", "Title": "阳光灿烂的日子", "Author": "导演: 姜文 Wen Jiang&nbsp;&nbsp;&nbsp;主演: 夏雨 Yu Xia / 宁静 Jing Ning / 陶虹 Hong Tao", "Time": "1994", "Country": "中国大陆 中国香港", "Type": "剧情 爱情"}
+{"Index": "118", "Title": "爱在日落黄昏时", "Author": "导演: 理查德·林克莱特 Richard Linklater&nbsp;&nbsp;&nbsp;主演: 伊桑·霍克 Ethan Hawke ...", "Time": "2004", "Country": "美国 法国", "Type": "剧情 爱情"}
+{"Index": "119", "Title": "完美的世界", "Author": "导演: 克林特·伊斯特伍德 Clint Eastwood&nbsp;&nbsp;&nbsp;主演: 凯文·科斯特纳 Kevin Cos...", "Time": "1993", "Country": "美国", "Type": "剧情 犯罪"}
+{"Index": "120", "Title": "无人知晓", "Author": "导演: 是枝裕和 Hirokazu Koreeda&nbsp;&nbsp;&nbsp;主演: 柳乐优弥 Yûya Yagira / 北浦爱...", "Time": "2004", "Country": "日本", "Type": "剧情"}
+{"Index": "121", "Title": "消失的爱人", "Author": "导演: 大卫·芬奇 David Fincher&nbsp;&nbsp;&nbsp;主演: 本·阿弗莱克 Ben Affleck / 罗莎蒙...", "Time": "2014", "Country": "美国", "Type": "剧情 犯罪 悬疑 惊悚"}
+{"Index": "122", "Title": "甜蜜蜜", "Author": "导演: 陈可辛 Peter Chan&nbsp;&nbsp;&nbsp;主演: 黎明 Leon Lai / 张曼玉 Maggie Cheung / ...", "Time": "1996", "Country": "中国香港", "Type": "剧情 爱情"}
+{"Index": "123", "Title": "借东西的小人阿莉埃蒂", "Author": "导演: 米林宏昌 Hiromasa Yonebayashi&nbsp;&nbsp;&nbsp;主演: 志田未来 Mirai Shida / 神木...", "Time": "2010", "Country": "日本", "Type": "动画 奇幻 冒险"}
+{"Index": "124", "Title": "倩女幽魂", "Author": "导演: 程小东 Siu-Tung Ching&nbsp;&nbsp;&nbsp;主演: 张国荣 Leslie Cheung / 王祖贤 Joey W...", "Time": "1987", "Country": "中国香港", "Type": "爱情 奇幻 武侠 古装"}
+{"Index": "125", "Title": "小森林 冬春篇", "Author": "导演: 森淳一 Junichi Mori&nbsp;&nbsp;&nbsp;主演: 桥本爱 Ai Hashimoto / 三浦贵大 Takahir...", "Time": "2015", "Country": "日本", "Type": "剧情"}
+{"Index": "126", "Title": "侧耳倾听", "Author": "导演: 近藤喜文 Yoshifumi Kondo&nbsp;&nbsp;&nbsp;主演: 本名阳子 Youko Honna / 小林桂树 K...", "Time": "1995", "Country": "日本", "Type": "剧情 爱情 动画"}
+{"Index": "127", "Title": "时空恋旅人", "Author": "导演: 理查德·柯蒂斯 Richard Curtis&nbsp;&nbsp;&nbsp;主演: 多姆纳尔·格里森 Domhnall Gl...", "Time": "2013", "Country": "英国", "Type": "喜剧 爱情 奇幻"}
+{"Index": "128", "Title": "幸福终点站", "Author": "导演: 史蒂文·斯皮尔伯格 Steven Spielberg&nbsp;&nbsp;&nbsp;主演: 汤姆·汉克斯 Tom Hanks...", "Time": "2004", "Country": "美国", "Type": "喜剧 剧情 爱情"}
+{"Index": "129", "Title": "驯龙高手", "Author": "导演: 迪恩·德布洛斯 Dean DeBlois / 克里斯·桑德斯 Chris Sanders&nbsp;&nbsp;&nbsp;主演:...", "Time": "2010", "Country": "美国", "Type": "动画 奇幻 冒险"}
+{"Index": "130", "Title": "萤火之森", "Author": "导演: 大森贵弘 Takahiro Omori&nbsp;&nbsp;&nbsp;主演: 佐仓绫音 Ayane Sakura / 内山昂辉 K...", "Time": "2011", "Country": "日本", "Type": "剧情 爱情 动画 奇幻"}
+{"Index": "131", "Title": "寄生虫", "Author": "导演: 奉俊昊 Joon-ho Bong&nbsp;&nbsp;&nbsp;主演: 宋康昊 Kang-ho Song / 李善均 Seon-gyun...", "Time": "2019", "Country": "韩国", "Type": "剧情"}
+{"Index": "132", "Title": "教父3", "Author": "导演: 弗朗西斯·福特·科波拉 Francis Ford Coppola&nbsp;&nbsp;&nbsp;主演: 阿尔·帕西诺 A...", "Time": "1990", "Country": "美国", "Type": "剧情 犯罪"}
+{"Index": "133", "Title": "怪兽电力公司", "Author": "导演: 彼特·道格特 Pete Docter / 大卫·斯沃曼 David Silverman&nbsp;&nbsp;&nbsp;主演: 约...", "Time": "2001", "Country": "美国", "Type": "儿童 喜剧 动画 奇幻 冒险"}
+{"Index": "134", "Title": "一个叫欧维的男人决定去死", "Author": "导演: 汉内斯·赫尔姆 Hannes Holm&nbsp;&nbsp;&nbsp;主演: 罗夫·拉斯加德 Rolf Lassgård...", "Time": "2015", "Country": "瑞典", "Type": "剧情"}
+{"Index": "135", "Title": "未麻的部屋", "Author": "导演: 今敏 Satoshi Kon&nbsp;&nbsp;&nbsp;主演: 岩男润子 Junko Iwao / 松本梨香 Rica Matsu...", "Time": "1997", "Country": "日本", "Type": "动画 奇幻 惊悚"}
+{"Index": "136", "Title": "玛丽和马克思", "Author": "导演: 亚当·艾略特 Adam Elliot&nbsp;&nbsp;&nbsp;主演: 托妮·科莱特 Toni Collette / 菲利...", "Time": "2009", "Country": "澳大利亚 美国", "Type": "剧情 喜剧 动画"}
+{"Index": "137", "Title": "玩具总动员3", "Author": "导演: 李·昂克里奇 Lee Unkrich&nbsp;&nbsp;&nbsp;主演: 汤姆·汉克斯 Tom Hanks / 蒂姆·艾...", "Time": "2010", "Country": "美国", "Type": "喜剧 动画 奇幻 冒险"}
+{"Index": "138", "Title": "傲慢与偏见", "Author": "导演: 乔·怀特 Joe Wright&nbsp;&nbsp;&nbsp;主演: 凯拉·奈特莉 Keira Knightley / 马修·...", "Time": "2005", "Country": "法国 英国 美国", "Type": "剧情 爱情"}
+{"Index": "139", "Title": "神偷奶爸", "Author": "导演: 皮艾尔·柯芬 Pierre Coffin / 克里斯·雷纳德 Chris Renaud&nbsp;&nbsp;&nbsp;主演: ...", "Time": "2010", "Country": "美国 法国", "Type": "喜剧 动画 冒险"}
+{"Index": "140", "Title": "釜山行", "Author": "导演: 延尚昊 Sang-ho Yeon&nbsp;&nbsp;&nbsp;主演: 孔侑 Yoo Gong / 郑有美 Yu-mi Jung / 马...", "Time": "2016", "Country": "韩国", "Type": "动作 惊悚 灾难"}
+{"Index": "141", "Title": "告白", "Author": "导演: 中岛哲也 Tetsuya Nakashima&nbsp;&nbsp;&nbsp;主演: 松隆子 Takako Matsu / 冈田将生 ...", "Time": "2010", "Country": "日本", "Type": "剧情 悬疑"}
+{"Index": "142", "Title": "大鱼", "Author": "导演: 蒂姆·波顿 Tim Burton&nbsp;&nbsp;&nbsp;主演: 伊万·麦克格雷格 Ewan McGregor / 阿...", "Time": "2003", "Country": "美国", "Type": "剧情 家庭 奇幻 冒险"}
+{"Index": "143", "Title": "被解救的姜戈", "Author": "导演: 昆汀·塔伦蒂诺 Quentin Tarantino&nbsp;&nbsp;&nbsp;主演: 杰米·福克斯 Jamie Foxx /...", "Time": "2012", "Country": "美国", "Type": "剧情 动作 西部 冒险"}
+{"Index": "144", "Title": "哈利·波特与火焰杯", "Author": "导演: 迈克·内威尔 Mike Newell&nbsp;&nbsp;&nbsp;主演: 丹尼尔·雷德克里夫 Daniel Radclif...", "Time": "2005", "Country": "英国 美国", "Type": "悬疑 奇幻 冒险"}
+{"Index": "145", "Title": "新世界", "Author": "导演: 朴勋政 Hoon-jung Park&nbsp;&nbsp;&nbsp;主演: 李政宰 Jung-Jae Lee / 崔岷植 Min-sik...", "Time": "2013", "Country": "韩国", "Type": "剧情 犯罪"}
+{"Index": "146", "Title": "射雕英雄传之东成西就", "Author": "导演: 刘镇伟 Jeffrey Lau&nbsp;&nbsp;&nbsp;主演: 梁朝伟 Tony Leung Chiu Wai / 林青霞 Bri...", "Time": "1993", "Country": "中国香港", "Type": "喜剧 奇幻 武侠 古装"}
+{"Index": "147", "Title": "阳光姐妹淘", "Author": "导演: 姜炯哲 Hyeong-Cheol Kang&nbsp;&nbsp;&nbsp;主演: 沈恩京 Eun-kyung Shim / 闵孝琳 Hy...", "Time": "2011", "Country": "韩国", "Type": "剧情 喜剧"}
+{"Index": "148", "Title": "哪吒闹海", "Author": "导演: 王树忱 Shuchen Wang / 严定宪 Dingxian Yan&nbsp;&nbsp;&nbsp;主演: 梁正晖 Zhenghui ...", "Time": "1979", "Country": "中国大陆", "Type": "冒险 动画 奇幻"}
+{"Index": "149", "Title": "我是山姆", "Author": "导演: 杰茜·尼尔森 Jessie Nelson&nbsp;&nbsp;&nbsp;主演: Sean Penn / Dakota Fanning / Mi...", "Time": "2001", "Country": "美国", "Type": "剧情 家庭"}
+{"Index": "150", "Title": "恐怖直播", "Author": "导演: 金秉祐 Byeong-woo Kim&nbsp;&nbsp;&nbsp;主演: 河正宇 Jung-woo Ha / 李璟荣 Kyeong-y...", "Time": "2013", "Country": "韩国", "Type": "剧情 犯罪 悬疑"}
+{"Index": "151", "Title": "头号玩家", "Author": "导演: 史蒂文·斯皮尔伯格 Steven Spielberg&nbsp;&nbsp;&nbsp;主演: 泰伊·谢里丹 Tye Sheri...", "Time": "2018", "Country": "美国", "Type": "动作 科幻 冒险"}
+{"Index": "152", "Title": "模仿游戏", "Author": "导演: 莫滕·泰杜姆 Morten Tyldum&nbsp;&nbsp;&nbsp;主演: 本尼迪克特·康伯巴奇 Benedict C...", "Time": "2014", "Country": "英国 美国", "Type": "剧情 传记 战争 同性"}
+{"Index": "153", "Title": "血战钢锯岭", "Author": "导演: 梅尔·吉布森 Mel Gibson&nbsp;&nbsp;&nbsp;主演: 安德鲁·加菲尔德 Andrew Garfield /...", "Time": "2016", "Country": "澳大利亚 美国", "Type": "剧情 传记 历史 战争"}
+{"Index": "154", "Title": "喜宴", "Author": "导演: 李安 Ang Lee&nbsp;&nbsp;&nbsp;主演: 赵文瑄 Winston Chao / 郎雄 Sihung Lung / 归亚...", "Time": "1993", "Country": "中国台湾 美国", "Type": "剧情 喜剧 爱情 同性 家庭"}
+{"Index": "155", "Title": "七武士", "Author": "导演: 黑泽明 Akira Kurosawa&nbsp;&nbsp;&nbsp;主演: 三船敏郎 Toshirô Mifune / 志村乔 ...", "Time": "1954", "Country": "日本", "Type": "动作 冒险 剧情"}
+{"Index": "156", "Title": "花样年华", "Author": "导演: 王家卫 Kar Wai Wong&nbsp;&nbsp;&nbsp;主演: 梁朝伟 Tony Leung Chiu Wai / 张曼玉 Ma...", "Time": "2000", "Country": "中国香港", "Type": "剧情 爱情"}
+{"Index": "157", "Title": "头脑特工队", "Author": "导演: 彼特·道格特 Pete Docter / 罗纳尔多·德尔·卡门 Ronaldo Del Carmen&nbsp;&nbsp;&nb...", "Time": "2015", "Country": "美国", "Type": "喜剧 动画 冒险"}
+{"Index": "158", "Title": "九品芝麻官", "Author": "导演: 王晶 Jing Wong&nbsp;&nbsp;&nbsp;主演: 周星驰 Stephen Chow / 吴孟达 Man Tat Ng / ...", "Time": "1994", "Country": "中国香港 中国大陆", "Type": "剧情 喜剧 古装"}
+{"Index": "159", "Title": "黑客帝国3：矩阵革命", "Author": "导演: 拉娜·沃卓斯基 Lana Wachowski / 莉莉·沃卓斯基 Lilly Wachowski&nbsp;&nbsp;&nbsp;...", "Time": "2003", "Country": "美国", "Type": "动作 科幻"}
+{"Index": "160", "Title": "电锯惊魂", "Author": "导演: 詹姆斯·温 James Wan&nbsp;&nbsp;&nbsp;主演: 雷·沃纳尔 Leigh Whannell / 加利·艾...", "Time": "2004", "Country": "美国", "Type": "悬疑 惊悚 恐怖"}
+{"Index": "161", "Title": "三块广告牌", "Author": "导演: 马丁·麦克唐纳 Martin McDonagh&nbsp;&nbsp;&nbsp;主演: 弗兰西斯·麦克多蒙德 France...", "Time": "2017", "Country": "美国 英国", "Type": "剧情 犯罪"}
+{"Index": "162", "Title": "惊魂记", "Author": "导演: 阿尔弗雷德·希区柯克 Alfred Hitchcock&nbsp;&nbsp;&nbsp;主演: 安东尼·博金斯 Antho...", "Time": "1960", "Country": "美国", "Type": "悬疑 惊悚 恐怖"}
+{"Index": "163", "Title": "你的名字。", "Author": "导演: 新海诚 Makoto Shinkai&nbsp;&nbsp;&nbsp;主演: 神木隆之介 Ryûnosuke Kamiki / 上...", "Time": "2016", "Country": "日本", "Type": "剧情 爱情 动画"}
+{"Index": "164", "Title": "达拉斯买家俱乐部", "Author": "导演: 让-马克·瓦雷 Jean-Marc Vallée&nbsp;&nbsp;&nbsp;主演: 马修·麦康纳 Matthew McCon...", "Time": "2013", "Country": "美国", "Type": "剧情 传记 同性"}
+{"Index": "165", "Title": "卢旺达饭店", "Author": "导演: 特瑞·乔治 Terry George&nbsp;&nbsp;&nbsp;主演: 唐·钱德尔 Don Cheadle / 苏菲·奥...", "Time": "2004", "Country": "英国 南非 意大利 美国", "Type": "剧情 传记 历史 战争"}
+{"Index": "166", "Title": "疯狂原始人", "Author": "导演: 科克·德·米科 Kirk De Micco / 克里斯·桑德斯 Chris Sanders&nbsp;&nbsp;&nbsp;主演...", "Time": "2013", "Country": "美国", "Type": "喜剧 动画 冒险"}
+{"Index": "167", "Title": "上帝之城", "Author": "导演: 费尔南多·梅里尔斯 Fernando Meirelles / 卡迪亚·兰德 Kátia Lund&nbsp;&nbsp;&nbsp...", "Time": "2002", "Country": "巴西 法国", "Type": "犯罪 剧情"}
+{"Index": "168", "Title": "心迷宫", "Author": "导演: 忻钰坤 Yukun Xin&nbsp;&nbsp;&nbsp;主演: 霍卫民 Weimin Huo / 王笑天 Xiaotian Wang ...", "Time": "2014", "Country": "中国大陆", "Type": "剧情 犯罪 悬疑"}
+{"Index": "169", "Title": "谍影重重3", "Author": "导演: 保罗·格林格拉斯 Paul Greengrass&nbsp;&nbsp;&nbsp;主演: 马特·达蒙 Matt Damon / ...", "Time": "2007", "Country": "美国 德国", "Type": "动作 悬疑 惊悚"}
+{"Index": "170", "Title": "色，戒", "Author": "导演: 李安 Ang Lee&nbsp;&nbsp;&nbsp;主演: 梁朝伟 Tony Leung Chiu Wai / 汤唯 Wei Tang / ...", "Time": "2007", "Country": "中国台湾 中国大陆 美国 中国香港", "Type": "剧情 爱情 情色"}
+{"Index": "171", "Title": "英雄本色", "Author": "导演: 吴宇森 John Woo&nbsp;&nbsp;&nbsp;主演: 周润发 Yun-Fat Chow / 狄龙 Lung Ti / 张国...", "Time": "1986", "Country": "中国香港", "Type": "剧情 动作 犯罪"}
+{"Index": "172", "Title": "风之谷", "Author": "导演: 宫崎骏 Hayao Miyazaki&nbsp;&nbsp;&nbsp;主演: 岛本须美 Sumi Shimamoto / 松田洋治 Y...", "Time": "1984", "Country": "日本", "Type": "动画 奇幻 冒险"}
+{"Index": "173", "Title": "纵横四海", "Author": "导演: 吴宇森 John Woo&nbsp;&nbsp;&nbsp;主演: 周润发 Yun-Fat Chow / 张国荣 Leslie Cheung...", "Time": "1991", "Country": "中国香港", "Type": "剧情 喜剧 动作 犯罪"}
+{"Index": "174", "Title": "茶馆", "Author": "导演: 谢添 Tian Xie&nbsp;&nbsp;&nbsp;主演: 于是之 Shizhi Yu / 郑榕 Rong Zhen / 蓝天野 T...", "Time": "1982(中国大陆)", "Country": "中国大陆", "Type": "剧情 历史"}
+{"Index": "175", "Title": "海街日记", "Author": "导演: 是枝裕和 Hirokazu Koreeda&nbsp;&nbsp;&nbsp;主演: 绫濑遥 Haruka Ayase / 长泽雅美 M...", "Time": "2015", "Country": "日本", "Type": "剧情 家庭"}
+{"Index": "176", "Title": "记忆碎片", "Author": "导演: 克里斯托弗·诺兰 Christopher Nolan&nbsp;&nbsp;&nbsp;主演: 盖·皮尔斯 Guy Pearce /...", "Time": "2000", "Country": "美国", "Type": "犯罪 剧情 悬疑 惊悚"}
+{"Index": "177", "Title": "岁月神偷", "Author": "导演: 罗启锐 Alex Law&nbsp;&nbsp;&nbsp;主演: 吴君如 Sandra Ng / 任达华 Simon Yam / 钟绍...", "Time": "2010", "Country": "中国香港 中国大陆", "Type": "剧情 家庭"}
+{"Index": "178", "Title": "爱在午夜降临前", "Author": "导演: 理查德·林克莱特 Richard Linklater&nbsp;&nbsp;&nbsp;主演: 伊桑·霍克 Ethan Hawke ...", "Time": "2013", "Country": "美国 希腊", "Type": "剧情 爱情"}
+{"Index": "179", "Title": "绿里奇迹", "Author": "导演: 弗兰克·德拉邦特 Frank Darabont&nbsp;&nbsp;&nbsp;主演: 汤姆·汉克斯 Tom Hanks / ...", "Time": "1999", "Country": "美国", "Type": "犯罪 剧情 奇幻 悬疑"}
+{"Index": "180", "Title": "忠犬八公物语", "Author": "导演: Seijirô Kôyama&nbsp;&nbsp;&nbsp;主演: 山本圭 Kei Yamamoto / 井川比佐志 Hisa...", "Time": "1987", "Country": "日本", "Type": "剧情"}
+{"Index": "181", "Title": "荒蛮故事", "Author": "导演: 达米安·斯兹弗隆 Damián Szifron&nbsp;&nbsp;&nbsp;主演: 达里奥·葛兰帝内提 Darío...", "Time": "2014", "Country": "阿根廷 西班牙", "Type": "剧情 喜剧 犯罪"}
+{"Index": "182", "Title": "爆裂鼓手", "Author": "导演: 达米恩·查泽雷 Damien Chazelle&nbsp;&nbsp;&nbsp;主演: 迈尔斯·特勒 Miles Teller /...", "Time": "2014", "Country": "美国", "Type": "剧情 音乐"}
+{"Index": "183", "Title": "小偷家族", "Author": "导演: 是枝裕和 Hirokazu Koreeda&nbsp;&nbsp;&nbsp;主演: 中川雅也 Lily Franky / 安藤樱 Sa...", "Time": "2018", "Country": "日本", "Type": "剧情 犯罪 家庭"}
+{"Index": "184", "Title": "疯狂的石头", "Author": "导演: 宁浩 Hao Ning&nbsp;&nbsp;&nbsp;主演: 郭涛 Tao Guo / 刘桦 Hua Liu / 连晋 Teddy Lin", "Time": "2006", "Country": "中国大陆 中国香港", "Type": "喜剧 犯罪"}
+{"Index": "185", "Title": "无敌破坏王", "Author": "导演: 瑞奇·莫尔 Rich Moore&nbsp;&nbsp;&nbsp;主演: 约翰·C·赖利 John C. Reilly / 萨拉...", "Time": "2012", "Country": "美国", "Type": "喜剧 动画 奇幻 冒险"}
+{"Index": "186", "Title": "贫民窟的百万富翁", "Author": "导演: 丹尼·鲍尔 Danny Boyle / 洛芙琳·坦丹 Loveleen Tandan&nbsp;&nbsp;&nbsp;主演: 戴夫...", "Time": "2008", "Country": "英国", "Type": "剧情 爱情"}
+{"Index": "187", "Title": "雨中曲", "Author": "导演: 斯坦利·多南 Stanley Donen / 吉恩·凯利 Gene Kelly&nbsp;&nbsp;&nbsp;主演: 吉恩·...", "Time": "1952", "Country": "美国", "Type": "喜剧 歌舞 爱情"}
+{"Index": "188", "Title": "东邪西毒", "Author": "导演: 王家卫 Kar Wai Wong&nbsp;&nbsp;&nbsp;主演: 张国荣 Leslie Cheung / 林青霞 Brigitte...", "Time": "1994", "Country": "中国香港 中国台湾", "Type": "剧情 动作 爱情 武侠 古装"}
+{"Index": "189", "Title": "冰川时代", "Author": "导演: 卡洛斯·沙尔丹哈 Carlos Saldanha / 克里斯·韦奇 Chris Wedge&nbsp;&nbsp;&nbsp;主演...", "Time": "2002", "Country": "美国", "Type": "喜剧 动画 冒险"}
+{"Index": "190", "Title": "真爱至上", "Author": "导演: 理查德·柯蒂斯 Richard Curtis&nbsp;&nbsp;&nbsp;主演: 休·格兰特 Hugh Grant / 柯林...", "Time": "2003", "Country": "英国 美国 法国", "Type": "喜剧 剧情 爱情"}
+{"Index": "191", "Title": "恐怖游轮", "Author": "导演: 克里斯托弗·史密斯 Christopher Smith&nbsp;&nbsp;&nbsp;主演: 梅利莎·乔治 Melissa ...", "Time": "2009", "Country": "英国 澳大利亚", "Type": "剧情 悬疑 惊悚"}
+{"Index": "192", "Title": "2001太空漫游", "Author": "导演: 斯坦利·库布里克 Stanley Kubrick&nbsp;&nbsp;&nbsp;主演: 凯尔·杜拉 Keir Dullea / ...", "Time": "1968", "Country": "英国 美国", "Type": "科幻 惊悚 冒险"}
+{"Index": "193", "Title": "你看起来好像很好吃", "Author": "导演: 藤森雅也 Masaya Fujimori&nbsp;&nbsp;&nbsp;主演: 山口胜平 Kappei Yamaguchi / 爱河...", "Time": "2010", "Country": "日本", "Type": "剧情 动画 儿童"}
+{"Index": "194", "Title": "黑天鹅", "Author": "导演: 达伦·阿罗诺夫斯基 Darren Aronofsky&nbsp;&nbsp;&nbsp;主演: 娜塔莉·波特曼 Natalie...", "Time": "2010", "Country": "美国", "Type": "剧情 惊悚"}
+{"Index": "195", "Title": "无间道2", "Author": "导演: 刘伟强 / 麦兆辉&nbsp;&nbsp;&nbsp;主演: 陈冠希 / 余文乐 / 曾志伟", "Time": "2003", "Country": "中国香港", "Type": "剧情 犯罪 惊悚"}
+{"Index": "196", "Title": "背靠背，脸对脸", "Author": "导演: 黄建新 Jianxin Huang / 杨亚洲 Yazhou Yang&nbsp;&nbsp;&nbsp;主演: 牛振华 Zhenhua N...", "Time": "1994", "Country": "中国大陆 中国香港", "Type": "剧情"}
+{"Index": "197", "Title": "魔女宅急便", "Author": "导演: 宫崎骏 Hayao Miyazaki&nbsp;&nbsp;&nbsp;主演: 高山南 Minami Takayama / 佐久间玲 Re...", "Time": "1989", "Country": "日本", "Type": "动画 奇幻 冒险"}
+{"Index": "198", "Title": "小丑", "Author": "导演: 托德·菲利普斯 Todd Phillips&nbsp;&nbsp;&nbsp;主演: 杰昆·菲尼克斯 Joaquin Phoeni...", "Time": "2019", "Country": "美国 加拿大", "Type": "剧情 犯罪 惊悚"}
+{"Index": "199", "Title": "牯岭街少年杀人事件", "Author": "导演: 杨德昌 Edward Yang&nbsp;&nbsp;&nbsp;主演: 张震 Chen Chang / 杨静怡 Lisa Yang / 张...", "Time": "1991", "Country": "中国台湾", "Type": "剧情 犯罪"}
+{"Index": "200", "Title": "遗愿清单", "Author": "导演: 罗伯·莱纳 Rob Reiner&nbsp;&nbsp;&nbsp;主演: 杰克·尼科尔森 Jack Nicholson / 摩根...", "Time": "2007", "Country": "美国", "Type": "冒险 喜剧 剧情"}
+{"Index": "201", "Title": "大佛普拉斯", "Author": "导演: 黄信尧 Hsin-yao Huang&nbsp;&nbsp;&nbsp;主演: 庄益增 Yizeng Zhuang / 陈竹昇 Chu-sh...", "Time": "2017", "Country": "中国台湾", "Type": "剧情 喜剧"}
+{"Index": "202", "Title": "雨人", "Author": "导演: 巴瑞·莱文森 Barry Levinson&nbsp;&nbsp;&nbsp;主演: 达斯汀·霍夫曼 Dustin Hoffman ...", "Time": "1988", "Country": "美国", "Type": "剧情"}
+{"Index": "203", "Title": "可可西里", "Author": "导演: 陆川 Chuan Lu&nbsp;&nbsp;&nbsp;主演: 多布杰 Duobujie / 张磊 Lei Zhang / 亓亮 Qi L...", "Time": "2004", "Country": "中国大陆 中国香港", "Type": "剧情 犯罪"}
+{"Index": "204", "Title": "恋恋笔记本", "Author": "导演: 尼克·卡索维茨 Nick Cassavetes&nbsp;&nbsp;&nbsp;主演: 瑞恩·高斯林 Ryan Gosling /...", "Time": "2004", "Country": "美国", "Type": "剧情 爱情"}
+{"Index": "205", "Title": "城市之光", "Author": "导演: Charles Chaplin&nbsp;&nbsp;&nbsp;主演: 查理·卓别林 Charles Chaplin / 弗吉尼亚·...", "Time": "1931", "Country": "美国", "Type": "喜剧 剧情 爱情"}
+{"Index": "206", "Title": "东京教父", "Author": "导演: 今敏 Satoshi Kon&nbsp;&nbsp;&nbsp;主演: 江守彻 Toru Emori / 梅垣义明 Yoshiaki Ume...", "Time": "2003", "Country": "日本", "Type": "剧情 喜剧 动画"}
+{"Index": "207", "Title": "源代码", "Author": "导演: 邓肯·琼斯 Duncan Jones&nbsp;&nbsp;&nbsp;主演: 杰克·吉伦哈尔 Jake Gyllenhaal / ...", "Time": "2011", "Country": "美国 加拿大", "Type": "科幻 悬疑 惊悚"}
+{"Index": "208", "Title": "初恋这件小事", "Author": "导演: 普特鹏·普罗萨卡·那·萨克那卡林 Puttipong Promsaka Na Sakolnakorn / 华森·波克彭...", "Time": "2010", "Country": "泰国", "Type": "剧情 喜剧 爱情"}
+{"Index": "209", "Title": "人工智能", "Author": "导演: 史蒂文·斯皮尔伯格 Steven Spielberg&nbsp;&nbsp;&nbsp;主演: 海利·乔·奥斯蒙 Haley...", "Time": "2001", "Country": "美国 英国", "Type": "剧情 科幻"}
+{"Index": "210", "Title": "虎口脱险", "Author": "导演: 杰拉尔·乌里 Gérard Oury&nbsp;&nbsp;&nbsp;主演: 路易·德·菲耐斯 Louis de Funès...", "Time": "1966", "Country": "法国 英国", "Type": "喜剧 战争"}
+{"Index": "211", "Title": "萤火虫之墓", "Author": "导演: 高畑勋 Isao Takahata&nbsp;&nbsp;&nbsp;主演: 辰己努 / 白石绫乃 / 志乃原良子", "Time": "1988", "Country": "日本", "Type": "动画 剧情 战争"}
+{"Index": "212", "Title": "心灵奇旅", "Author": "导演: 彼特·道格特 Pete Docter / 凯普·鲍尔斯 Kemp Powers&nbsp;&nbsp;&nbsp;主演: 杰米·...", "Time": "2020", "Country": "美国", "Type": "动画 奇幻 音乐"}
+{"Index": "213", "Title": "海边的曼彻斯特", "Author": "导演: 肯尼斯·罗纳根 Kenneth Lonergan&nbsp;&nbsp;&nbsp;主演: 卡西·阿弗莱克 Casey Affle...", "Time": "2016", "Country": "美国", "Type": "剧情 家庭"}
+{"Index": "214", "Title": "罗生门", "Author": "导演: 黑泽明 Akira Kurosawa&nbsp;&nbsp;&nbsp;主演: 三船敏郎 Toshirô Mifune / 京町子 ...", "Time": "1950", "Country": "日本", "Type": "剧情 犯罪 悬疑"}
+{"Index": "215", "Title": "青蛇", "Author": "导演: 徐克 Hark Tsui&nbsp;&nbsp;&nbsp;主演: 张曼玉 Maggie Cheung / 王祖贤 Joey Wang / ...", "Time": "1993", "Country": "中国香港 中国大陆", "Type": "剧情 爱情 奇幻 古装"}
+{"Index": "216", "Title": "波西米亚狂想曲", "Author": "导演: 布莱恩·辛格 Bryan Singer&nbsp;&nbsp;&nbsp;主演: 拉米·马雷克 Rami Malek / 本·哈...", "Time": "2018", "Country": "英国 美国", "Type": "剧情 传记 同性 音乐"}
+{"Index": "217", "Title": "终结者2：审判日", "Author": "导演: 詹姆斯·卡梅隆 James Cameron&nbsp;&nbsp;&nbsp;主演: 阿诺·施瓦辛格 Arnold Schwarz...", "Time": "1991", "Country": "美国 法国", "Type": "动作 科幻"}
+{"Index": "218", "Title": "疯狂的麦克斯4：狂暴之路", "Author": "导演: 乔治·米勒 George Miller&nbsp;&nbsp;&nbsp;主演: 汤姆·哈迪 Tom Hardy / 查理兹·塞...", "Time": "2015", "Country": "澳大利亚 美国", "Type": "动作 科幻 冒险"}
+{"Index": "219", "Title": "新龙门客栈", "Author": "导演: 李惠民 Raymond Lee&nbsp;&nbsp;&nbsp;主演: 张曼玉 Maggie Cheung / 林青霞 Brigitte ...", "Time": "1992", "Country": "中国香港 中国大陆", "Type": "动作 爱情 武侠 古装"}
+{"Index": "220", "Title": "奇迹男孩", "Author": "导演: 斯蒂芬·卓博斯基 Stephen Chbosky&nbsp;&nbsp;&nbsp;主演: 雅各布·特伦布莱 Jacob Tr...", "Time": "2017", "Country": "美国 中国香港", "Type": "剧情 儿童 家庭"}
+{"Index": "221", "Title": "二十二", "Author": "导演: 郭柯 Ke Guo&nbsp;&nbsp;&nbsp;主演: ", "Time": "2015", "Country": "中国大陆", "Type": "纪录片"}
+{"Index": "222", "Title": "无耻混蛋", "Author": "导演: Quentin Tarantino&nbsp;&nbsp;&nbsp;主演: 布拉德·皮特 Brad Pitt / 梅拉尼·罗兰 M...", "Time": "2009", "Country": "德国 美国", "Type": "剧情 犯罪"}
+{"Index": "223", "Title": "千钧一发", "Author": "导演: 安德鲁·尼科尔 Andrew Niccol&nbsp;&nbsp;&nbsp;主演: 伊桑·霍克 Ethan Hawke / 乌玛...", "Time": "1997", "Country": "美国", "Type": "剧情 科幻 惊悚"}
+{"Index": "224", "Title": "房间", "Author": "导演: 伦尼·阿伯拉罕森 Lenny Abrahamson&nbsp;&nbsp;&nbsp;主演: 布丽·拉尔森 Brie Larson...", "Time": "2015", "Country": "爱尔兰 加拿大 英国 美国", "Type": "剧情 家庭"}
+{"Index": "225", "Title": "血钻", "Author": "导演: 爱德华·兹威克 Edward Zwick&nbsp;&nbsp;&nbsp;主演: 莱昂纳多·迪卡普里奥 Leonardo ...", "Time": "2006", "Country": "美国 德国 英国", "Type": "剧情 惊悚 冒险"}
+{"Index": "226", "Title": "崖上的波妞", "Author": "导演: 宫崎骏 Hayao Miyazaki&nbsp;&nbsp;&nbsp;主演: 奈良柚莉爱 Yuria Nara / 土井洋辉 Hir...", "Time": "2008", "Country": "日本", "Type": "动画 奇幻 冒险"}
+{"Index": "227", "Title": "彗星来的那一夜", "Author": "导演: 詹姆斯·沃德·布柯特 James Ward Byrkit&nbsp;&nbsp;&nbsp;主演: 艾米丽·芭尔多尼 Em...", "Time": "2013", "Country": "美国 英国", "Type": "科幻 悬疑 惊悚"}
+{"Index": "228", "Title": "黑客帝国2：重装上阵", "Author": "导演: 拉娜·沃卓斯基 Lana Wachowski / 莉莉·沃卓斯基 Lilly Wachowski&nbsp;&nbsp;&nbsp;...", "Time": "2003", "Country": "美国", "Type": "动作 科幻"}
+{"Index": "229", "Title": "步履不停", "Author": "导演: 是枝裕和 Hirokazu Koreeda&nbsp;&nbsp;&nbsp;主演: 阿部宽 Hiroshi Abe / 夏川结衣 Yu...", "Time": "2008", "Country": "日本", "Type": "剧情 家庭"}
+{"Index": "230", "Title": "魂断蓝桥", "Author": "导演: 茂文·勒鲁瓦 Mervyn LeRoy&nbsp;&nbsp;&nbsp;主演: 费雯·丽 Vivien Leigh / 罗伯特·...", "Time": "1940", "Country": "美国", "Type": "剧情 爱情 战争"}
+{"Index": "231", "Title": "战争之王", "Author": "导演: 安德鲁·尼科尔 Andrew Niccol&nbsp;&nbsp;&nbsp;主演: 尼古拉斯·凯奇 Nicolas Cage /...", "Time": "2005", "Country": "法国 德国 美国", "Type": "剧情 犯罪"}
+{"Index": "232", "Title": "爱乐之城", "Author": "导演: 达米恩·查泽雷 Damien Chazelle&nbsp;&nbsp;&nbsp;主演: 瑞恩·高斯林 Ryan Gosling /...", "Time": "2016", "Country": "美国", "Type": "剧情 爱情 歌舞"}
+{"Index": "233", "Title": "末路狂花", "Author": "导演: 雷德利·斯科特 Ridley Scott&nbsp;&nbsp;&nbsp;主演: 吉娜·戴维斯 Geena Davis / 苏...", "Time": "1991", "Country": "美国 英国 法国", "Type": "犯罪 剧情 惊悚"}
+{"Index": "234", "Title": "谍影重重2", "Author": "导演: 保罗·格林格拉斯 Paul Greengrass&nbsp;&nbsp;&nbsp;主演: 马特·达蒙 Matt Damon / ...", "Time": "2004", "Country": "美国 德国", "Type": "动作 悬疑 惊悚"}
+{"Index": "235", "Title": "火星救援", "Author": "导演: 雷德利·斯科特 Ridley Scott&nbsp;&nbsp;&nbsp;主演: 马特·达蒙 Matt Damon / 杰西卡...", "Time": "2015", "Country": "英国 美国 匈牙利 约旦", "Type": "剧情 科幻 冒险"}
+{"Index": "236", "Title": "燃情岁月", "Author": "导演: 爱德华·兹威克 Edward Zwick&nbsp;&nbsp;&nbsp;主演: 布拉德·皮特 Brad Pitt / 安东...", "Time": "1994", "Country": "美国", "Type": "剧情 爱情 战争 西部"}
+{"Index": "237", "Title": "千年女优", "Author": "导演: 今敏 Satoshi Kon&nbsp;&nbsp;&nbsp;主演: 庄司美代子 Miyoko Shôji / 小山茉美 Mam...", "Time": "2001", "Country": "日本", "Type": "动画 剧情 爱情"}
+{"Index": "238", "Title": "花束般的恋爱", "Author": "导演: 土井裕泰 Nobuhiro Doi&nbsp;&nbsp;&nbsp;主演: 菅田将晖 Masaki Suda / 有村架纯 Kasu...", "Time": "2021", "Country": "日本", "Type": "剧情 爱情"}
+{"Index": "239", "Title": "阿飞正传", "Author": "导演: 王家卫 Kar Wai Wong&nbsp;&nbsp;&nbsp;主演: 张国荣 Leslie Cheung / 张曼玉 Maggie C...", "Time": "1990", "Country": "中国香港", "Type": "犯罪 剧情 爱情"}
+{"Index": "240", "Title": "再次出发之纽约遇见你", "Author": "导演: 约翰·卡尼 John Carney&nbsp;&nbsp;&nbsp;主演: 凯拉·奈特莉 Keira Knightley / 马克...", "Time": "2013", "Country": "美国", "Type": "喜剧 爱情 音乐"}
+{"Index": "241", "Title": "谍影重重", "Author": "导演: 道格·里曼 Doug Liman&nbsp;&nbsp;&nbsp;主演: 马特·达蒙 Matt Damon / 弗兰卡·波坦...", "Time": "2002", "Country": "美国 德国 捷克", "Type": "动作 悬疑 惊悚"}
+{"Index": "242", "Title": "朗读者", "Author": "导演: 史蒂芬·戴德利 Stephen Daldry&nbsp;&nbsp;&nbsp;主演: 凯特·温丝莱特 Kate Winslet ...", "Time": "2008", "Country": "美国 德国", "Type": "剧情 爱情"}
+{"Index": "243", "Title": "海洋", "Author": "导演: 雅克·贝汉 Jacques Perrin / 雅克·克鲁奥德 Jacques Cluzaud&nbsp;&nbsp;&nbsp;主演:...", "Time": "2009", "Country": "法国 瑞士 西班牙 美国 阿联酋 摩纳哥", "Type": "纪录片"}
+{"Index": "244", "Title": "香水", "Author": "导演: 汤姆·提克威 Tom Tykwer&nbsp;&nbsp;&nbsp;主演: 本·卫肖 Ben Whishaw / 艾伦·瑞克...", "Time": "2006", "Country": "德国 法国 西班牙 美国 比利时", "Type": "剧情 犯罪 奇幻"}
+{"Index": "245", "Title": "穿越时空的少女", "Author": "导演: 细田守 Mamoru Hosoda&nbsp;&nbsp;&nbsp;主演: 仲里依纱 Riisa Naka / 石田卓也 Takuya...", "Time": "2006", "Country": "日本", "Type": "剧情 爱情 科幻 动画"}
+{"Index": "246", "Title": "哈利·波特与死亡圣器(上)", "Author": "导演: 大卫·叶茨 David Yates&nbsp;&nbsp;&nbsp;主演: 丹尼尔·雷德克里夫 Daniel Radcliffe...", "Time": "2010", "Country": "英国 美国", "Type": "奇幻 冒险"}
+{"Index": "247", "Title": "弱点", "Author": "导演: 约翰·李·汉考克 John Lee Hancock&nbsp;&nbsp;&nbsp;主演: 桑德拉·布洛克 Sandra Bu...", "Time": "2009", "Country": "美国", "Type": "剧情 家庭 传记 运动"}
+{"Index": "248", "Title": "地球上的星星", "Author": "导演: 阿米尔·汗 Aamir Khan&nbsp;&nbsp;&nbsp;主演: 达席尔·萨法瑞 Darsheel Safary / 阿...", "Time": "2007", "Country": "印度", "Type": "剧情 儿童 家庭"}
+{"Index": "249", "Title": "我爱你", "Author": "导演: 秋昌民 Chang-min Choo&nbsp;&nbsp;&nbsp;主演: 宋在河 Jae-ho Song / 李顺载 Soon-jae...", "Time": "2011", "Country": "韩国", "Type": "剧情 爱情"}
+{"Index": "250", "Title": "完美陌生人", "Author": "导演: 保罗·格诺维瑟 Paolo Genovese&nbsp;&nbsp;&nbsp;主演: 马可·贾利尼 Marco Giallini ...", "Time": "2016", "Country": "意大利", "Type": "剧情 喜剧"}
